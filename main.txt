@@ -1,0 +1,4 @@
+public static void main(String[] args){
+ // calling the profile screen
+ // call the auth screen
+}
